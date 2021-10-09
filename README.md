@@ -30,6 +30,8 @@ Thomas High's overall passing percentage, however, changed more than expected: <
 - School size bin: **Medium**
 - Type: **Charter**
 
+![Alt text](https://github.com/Goddard310/School_District_Analysis/blob/main/Spending%20Bins.png)
+
 ## Summary
 
 - Thomas scores were improved by the exercise 
