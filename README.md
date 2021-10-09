@@ -25,7 +25,7 @@ Thomas High's overall passing percentage, however, changed more than expected: <
 
 - Aside from 9th, changing the data does not affect the math & reading scores for the other grades
 
-As Thomas Highs grades are the only ones affected, the scores increase in the following categories:
+**As Thomas Highs grades are the only ones affected, the scores increase in the following categories:**
 - Per student spending bin: **$630-$644**
 - School size bin: **Medium**
 - Type: **Charter**
